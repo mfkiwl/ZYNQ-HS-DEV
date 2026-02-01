@@ -1,0 +1,27 @@
+BGA Escape Route
+Filename     : C:\Users\uqurk\Desktop\Projects\Advanced-Digital-Hardware-Design\ZYNQ-HS-DEV\ZYNQ-HS-DEV-PCB.PcbDoc
+Date         : 1.02.2026
+Time         : 20:56:38
+Time Elapsed : 00:00:02
+
+U300
+    Pad U300-H8(96.988mm,75.595mm) on S1 (SIG) on Net +1V8
+    Pad U300-N8(96.988mm,71.595mm) on S1 (SIG) on Net GND
+    Pad U300-H12(100.188mm,75.595mm) on S1 (SIG) on Net +1V0
+    Pad U300-H9(97.788mm,75.595mm) on S1 (SIG) on Net GND
+    Pad U300-J8(96.988mm,74.795mm) on S1 (SIG) on Net GND
+    Pad U300-M8(96.988mm,72.395mm) on S1 (SIG) on Net +1V8
+    Pad U300-J12(100.188mm,74.795mm) on S1 (SIG) on Net GND
+    Pad U300-J9(97.788mm,74.795mm) on S1 (SIG) on Net +1V8
+    Pad U300-M9(97.788mm,72.395mm) on S1 (SIG) on Net GND
+    Pad U300-J11(99.388mm,74.795mm) on S1 (SIG) on Net +1V8
+    Pad U300-J10(98.588mm,74.795mm) on S1 (SIG) on Net GND
+    Pad U300-K12(100.188mm,73.995mm) on S1 (SIG) on Net +1V0
+    Pad U300-K9(97.788mm,73.995mm) on S1 (SIG) on Net GND
+    Pad U300-L9(97.788mm,73.195mm) on S1 (SIG) on Net GND
+    Pad U300-M11(99.388mm,72.395mm) on S1 (SIG) on Net GND
+    Pad U300-M10(98.588mm,72.395mm) on S1 (SIG) on Net GND
+    Pad U300-K11(99.388mm,73.995mm) on S1 (SIG) on Net GND
+    Pad U300-K10(98.588mm,73.995mm) on S1 (SIG) on Net GND
+    Pad U300-L10(98.588mm,73.195mm) on S1 (SIG) on Net GND
+count : 19
